@@ -8,6 +8,7 @@ This is a sample of depgraph-maven-plugin with maven site.
 * Depgraph Maven plugin
 * Apache Maven Site Plugin
 * doxia-module-markdown
+* Graphviz
 
 ## How to use
 
